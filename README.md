@@ -34,7 +34,7 @@ The application is organized into the following components:
 
 ### Prerequisites
 
-- Go 1.16 or later
+- Go 1.22.5
 - A working Go environment
 
 ### Installation
