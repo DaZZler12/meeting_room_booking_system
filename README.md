@@ -28,7 +28,7 @@ The application is organized into the following components:
 
 ## UML Diagram
 
-![UML Diagram](path/to/your/UML_diagram.png)
+![UML Diagram](https://github.com/DaZZler12/meeting_room_booking_system/blob/main/Screenshot%202024-10-04%20at%2010.28.52%E2%80%AFPM.png)
 
 ## Getting Started
 
